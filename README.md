@@ -8,26 +8,26 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/alispatel/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="LinkedIn" />
+    <img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" alt="LinkedIn" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:alispatel123098@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" width="40" height="40" alt="Gmail" />
+    <img src="https://skillicons.dev/icons?i=gmail" width="48" height="48" alt="Gmail" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/alispatel111" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub" />
+    <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://alispatel.vercel.app" target="_blank">
-    <img src="./alis-logo.png" width="40" height="40" style="border-radius: 8px; object-fit: cover;" alt="Portfolio" />
+    <img src="./alis-logo.png" width="48" height="48" style="border-radius: 10px; object-fit: cover;" alt="Portfolio" />
   </a>
 </p>
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=alispatel111&color=7c3aed&style=flat-square&label=Profile+Views)&nbsp;
-![GitHub followers](https://img.shields.io/github/followers/alispatel111?style=flat-square&color=7c3aed&label=Followers)
+![Profile Views](https://komarev.com/ghpvc/?username=alispatel111&color=7c3aed&style=for-the-badge&label=Profile+Views)&nbsp;&nbsp;
+![GitHub followers](https://img.shields.io/github/followers/alispatel111?style=for-the-badge&color=7c3aed&label=Followers)
 
 </div>
 

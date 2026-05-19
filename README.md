@@ -330,7 +330,7 @@ that actually solve problems.
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=alispatel111&bg_color=0D1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&area_color=7c3aed&hide_border=true&border_radius=10)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=alispatel111&theme=tokyonight&area=true&hide_border=true&border_radius=12)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 

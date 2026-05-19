@@ -340,11 +340,22 @@ that actually solve problems.
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alispatel111/alispatel111/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alispatel111/alispatel111/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/alispatel111/alispatel111/output/github-snake-dark.svg" />
-</picture>
+<table width="100%" style="border-collapse: collapse; border: 1px solid #30363d; border-radius: 12px; overflow: hidden; background: #0d1117;">
+<tr style="background: #161b22; height: 35px; border-bottom: 1px solid #30363d;">
+  <td style="padding-left: 15px; font-family: monospace; font-size: 13px; color: #a78bfa; font-weight: bold; border: none; text-align: left;">
+    🔴 &nbsp;🟡 &nbsp;🟢 &nbsp;&nbsp;&nbsp;&nbsp; 🖥️ snake_contributions.sh
+  </td>
+</tr>
+<tr>
+  <td align="center" style="padding: 20px; border: none; background: #0b0914;">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alispatel111/alispatel111/output/github-snake-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alispatel111/alispatel111/output/github-snake.svg" />
+      <img alt="github-snake" src="https://raw.githubusercontent.com/alispatel111/alispatel111/output/github-snake-dark.svg" width="100%" style="max-width: 800px; display: block; margin: 0 auto;" />
+    </picture>
+  </td>
+</tr>
+</table>
 
 </div>
 

@@ -1,21 +1,35 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Alis%20Patel&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=MERN%20Stack%20Developer%20%7C%20Full%20Stack%20Engineer%20%7C%20India%20🇮🇳&descAlignY=58&descSize=18&descColor=a78bfa" width="100%"/>
 
-<table width="100%" style="border-collapse: collapse; border: 1px solid #30363d; border-radius: 12px; overflow: hidden; background: #0d1117; margin: 15px auto;">
-<tr style="background: #161b22; height: 35px; border-bottom: 1px solid #30363d;">
-  <td style="padding-left: 15px; font-family: monospace; font-size: 13px; color: #a78bfa; font-weight: bold; border: none; text-align: left;">
-    🔴 &nbsp;🟡 &nbsp;🟢 &nbsp;&nbsp;&nbsp;&nbsp; 🖥️ alispatel_terminal.sh
-  </td>
-</tr>
-<tr>
-  <td align="center" style="padding: 25px; border: none; background: #0b0914;">
-    <a href="https://git.io/typing-svg" target="_blank"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=40&lines=🚀+Building+Scalable+MERN+Applications;💡+Turning+Complex+Ideas+into+Clean+Code;⚡+React+%7C+Node.js+%7C+MongoDB+%7C+Express;🌱+Always+Learning+%2C+Always+Growing" alt="Typing SVG" /></a>
-    <br/><br/>
-    <a href="https://www.linkedin.com/in/alispatel/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="46" height="46" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:alispatel123098@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" width="46" height="46" alt="Gmail" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/alispatel111" target="_blank"><img src="https://skillicons.dev/icons?i=github" width="46" height="46" alt="GitHub" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://alispatel.vercel.app" target="_blank"><img src="./alis-logo.png" width="46" height="46" style="border-radius: 10px; object-fit: cover;" alt="Portfolio" /></a>
-    <br/><br/>
-    <img src="https://komarev.com/ghpvc/?username=alispatel111&color=7c3aed&style=for-the-badge&label=Profile+Views" alt="Profile Views" />&nbsp;&nbsp;<img src="https://img.shields.io/github/followers/alispatel111?style=for-the-badge&color=7c3aed&label=Followers" alt="Followers" />
-  </td>
-</tr>
-</table>
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=650&height=60&lines=🚀+Building+Scalable+MERN+Applications;💡+Turning+Complex+Ideas+into+Clean+Code;⚡+React+%7C+Node.js+%7C+MongoDB+%7C+Express;🌱+Always+Learning+%2C+Always+Growing)](https://git.io/typing-svg)
+
+<br/>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/alispatel/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:alispatel123098@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" width="48" height="48" alt="Gmail" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/alispatel111" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://alispatel.vercel.app" target="_blank">
+    <img src="./alis-logo.png" width="48" height="48" style="border-radius: 10px; object-fit: cover;" alt="Portfolio" />
+  </a>
+</p>
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=alispatel111&color=7c3aed&style=for-the-badge&label=Profile+Views)&nbsp;&nbsp;
+![GitHub followers](https://img.shields.io/github/followers/alispatel111?style=for-the-badge&color=7c3aed&label=Followers)
+
+</div>
 
 ---
 

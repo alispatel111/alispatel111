@@ -310,12 +310,6 @@ that actually solve problems.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=alispatel111&theme=tokyonight&hide_border=true&border_radius=12" width="100%" alt="GitHub Streak" />
 </td>
 </tr>
-<tr>
-<td colspan="2" align="center" valign="middle" style="border: none; padding: 12px 8px 8px 8px;">
-  <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alispatel111&theme=tokyonight" width="60%" alt="Top Languages" />
-</td>
-</tr>
 </table>
 
 </div>

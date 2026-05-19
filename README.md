@@ -129,7 +129,7 @@ that actually solve problems.
 
 ### 💳 QR Payment System
 
-*Smart QR & NFC based contactless payment & billing system*
+*Full-stack e-commerce platform with contactless QR & NFC scan-to-purchase in under 2 seconds*
 
 [![GitHub](https://img.shields.io/badge/GitHub_Repo-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alispatel111)
 [![Live](https://img.shields.io/badge/Live_Demo-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](#)
@@ -144,10 +144,12 @@ that actually solve problems.
 
 **Key Features**
 
-- 📱 QR & NFC based instant payments
-- 📊 Real-time billing dashboard
-- 🧾 Invoice generation & management
-- 🔐 Secure JWT authentication
+- 📷 &nbsp;QR Code instant product scanning
+- 📲 &nbsp;NFC tap-to-purchase technology
+- 🛒 &nbsp;Automatic cart addition & management
+- 💳 &nbsp;Secure payment gateway integration
+- 📊 &nbsp;Real-time purchase & payment tracking
+- 🧾 &nbsp;Automated digital receipt & email generation
 
 <br/>
 

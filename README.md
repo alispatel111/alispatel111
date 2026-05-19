@@ -358,25 +358,40 @@ that actually solve problems.
 
 ## 📬 Let's Connect!
 
-I'm always open to discussing new projects, creative ideas, or opportunities to collaborate. Feel free to reach out to me through any of the platforms below:
-
-<br/>
-
 <div align="center">
 
-<a href="https://linkedin.com/in/alis-patel" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="LinkedIn" />
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="mailto:alispatel111@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="Gmail" />
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/alispatel111" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" height="35" alt="GitHub" />
-</a>
+<table width="100%" style="border-collapse: collapse; border: 1px solid #7c3aed; border-radius: 16px; overflow: hidden; background: linear-gradient(135deg, #0f0c29 0%, #302b63 50%, #0f0c29 100%); max-width: 600px; margin: 20px auto; box-shadow: 0 10px 30px rgba(124, 58, 237, 0.25);">
+<tr style="background: rgba(124, 58, 237, 0.15); height: 45px; border-bottom: 1px solid #7c3aed;">
+  <td colspan="3" style="padding-left: 18px; font-family: 'Inter', sans-serif; font-size: 14px; color: #a78bfa; font-weight: 800; border: none; text-align: left; letter-spacing: 1px;">
+    ✨ CHANNELS // let's_connect.sh
+  </td>
+</tr>
+<tr style="background: rgba(15, 12, 41, 0.6);">
+  <td width="33%" align="center" style="padding: 25px 15px; border: none;">
+    <a href="https://linkedin.com/in/alis-patel" target="_blank">
+      <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" style="border-radius: 8px;" />
+      <br/><br/>
+      <span style="font-family: monospace; font-size: 12px; color: #a78bfa; font-weight: bold;">[ CONNECT 🤝 ]</span>
+    </a>
+  </td>
+  <td width="34%" align="center" style="padding: 25px 15px; border: none; border-left: 1px solid rgba(124, 58, 237, 0.2); border-right: 1px solid rgba(124, 58, 237, 0.2);">
+    <a href="mailto:alispatel111@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" style="border-radius: 8px;" />
+      <br/><br/>
+      <span style="font-family: monospace; font-size: 12px; color: #a78bfa; font-weight: bold;">[ WRITE MAIL 📧 ]</span>
+    </a>
+  </td>
+  <td width="33%" align="center" style="padding: 25px 15px; border: none;">
+    <a href="https://github.com/alispatel111" target="_blank">
+      <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" height="35" style="border-radius: 8px;" />
+      <br/><br/>
+      <span style="font-family: monospace; font-size: 12px; color: #a78bfa; font-weight: bold;">[ FOLLOW 🐙 ]</span>
+    </a>
+  </td>
+</tr>
+</table>
 
-<br/><br/><br/>
+<br/><br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=alispatel111&color=7c3aed&style=for-the-badge&label=Total+Profile+Views)
 

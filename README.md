@@ -348,11 +348,7 @@ that actually solve problems.
 </tr>
 <tr>
   <td align="center" style="padding: 20px; border: none; background: #0b0914;">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alispatel111/alispatel111/output/github-snake-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alispatel111/alispatel111/output/github-snake.svg" />
-      <img alt="github-snake" src="https://raw.githubusercontent.com/alispatel111/alispatel111/output/github-snake-dark.svg" width="100%" style="max-width: 800px; display: block; margin: 0 auto;" />
-    </picture>
+    <img src="https://ghchart.rshah.org/7c3aed/alispatel111" alt="Alis Patel's GitHub Contributions Calendar" width="100%" style="max-width: 800px; display: block; margin: 0 auto;" />
   </td>
 </tr>
 </table>

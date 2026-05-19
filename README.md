@@ -131,6 +131,13 @@ that actually solve problems.
 
 *Full-stack e-commerce platform with contactless QR & NFC scan-to-purchase in under 2 seconds*
 
+![Category](https://img.shields.io/badge/Category-Fullstack-4f46e5?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Production-16a34a?style=flat-square)
+![Stars](https://img.shields.io/badge/Stars-50-eab308?style=flat-square)
+![Complexity](https://img.shields.io/badge/Complexity-Hard-dc2626?style=flat-square)
+
+<br/>
+
 [![GitHub](https://img.shields.io/badge/GitHub_Repo-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alispatel111)
 [![Live](https://img.shields.io/badge/Live_Demo-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](#)
 
@@ -160,7 +167,14 @@ that actually solve problems.
 
 ### 🧳 TripEasy
 
-*Smart travel planning & booking web application with multi-destination support*
+*Comprehensive travel tech platform to simplify trip planning — from discovery to booking, seamlessly*
+
+![Category](https://img.shields.io/badge/Category-Fullstack-4f46e5?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Production-16a34a?style=flat-square)
+![Stars](https://img.shields.io/badge/Stars-45-eab308?style=flat-square)
+![Complexity](https://img.shields.io/badge/Complexity-Hard-dc2626?style=flat-square)
+
+<br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub_Repo-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alispatel111)
 [![Live](https://img.shields.io/badge/Live_Demo-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](#)
@@ -171,14 +185,17 @@ that actually solve problems.
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-404D59?style=flat-square&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 **Key Features**
 
-- 🌍 Multi-destination trip planning
-- 🔍 Smart search & date filtering
-- 📅 Booking & availability system
-- 💳 Secure payment integration
+- 🗺️ &nbsp;Custom travel package creation
+- 💳 &nbsp;Secure multi-gateway payments
+- 🧾 &nbsp;Automated invoice generation
+- 🎬 &nbsp;Dynamic UI with smooth animations
+- 📱 &nbsp;Responsive design for all devices
+- 🔗 &nbsp;REST API integration with Axios
 
 <br/>
 
@@ -193,6 +210,13 @@ that actually solve problems.
 ### 🧬 Biology Trunk
 
 *Interactive biology learning platform for students with topic-wise modules*
+
+![Category](https://img.shields.io/badge/Category-Fullstack-4f46e5?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Production-16a34a?style=flat-square)
+![Stars](https://img.shields.io/badge/Stars-32-eab308?style=flat-square)
+![Complexity](https://img.shields.io/badge/Complexity-Medium-df9010?style=flat-square)
+
+<br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub_Repo-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alispatel111)
 [![Live](https://img.shields.io/badge/Live_Demo-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](#)
@@ -222,6 +246,13 @@ that actually solve problems.
 ### ✈️ FlyAnyTrip
 
 *Modern flight search & travel booking web application*
+
+![Category](https://img.shields.io/badge/Category-Fullstack-4f46e5?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Production-16a34a?style=flat-square)
+![Stars](https://img.shields.io/badge/Stars-38-eab308?style=flat-square)
+![Complexity](https://img.shields.io/badge/Complexity-Hard-dc2626?style=flat-square)
+
+<br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub_Repo-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alispatel111)
 [![Live](https://img.shields.io/badge/Live_Demo-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](#)

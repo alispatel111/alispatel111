@@ -248,7 +248,7 @@ that actually solve problems.
 
 ### ✈️ FlyAnyTrip
 
-*Modern flight search & travel booking web application*
+*Modern travel booking platform with real-time flight search, multi-destination routing, and automated invoicing*
 
 ![Category](https://img.shields.io/badge/Category-Fullstack-4f46e5?style=flat-square)
 ![Status](https://img.shields.io/badge/Status-Production-16a34a?style=flat-square)
@@ -266,14 +266,17 @@ that actually solve problems.
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-404D59?style=flat-square&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white)
 ![JS](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 **Key Features**
 
-- ✈️ Flight search & booking system
-- 🌍 Multi-destination travel planning
-- 📅 Date-based availability filter
-- 💳 Secure payment integration
+- ✈️ &nbsp;Real-time flight search with live Aviation API
+- 🗺️ &nbsp;Multi-destination planning & segment routing
+- 💳 &nbsp;Secure payment integration (Razorpay/Stripe)
+- 📄 &nbsp;Automated PDF invoice generation & email receipt
+- 🔍 &nbsp;Advanced flight search sorting & filtering options
+- 👤 &nbsp;User passenger records & unique PNR generation
 
 <br/>
 

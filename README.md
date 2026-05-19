@@ -53,34 +53,91 @@ const alisPatel: Developer = {
 
 <div align="center">
 
-### ⚛️ Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
+> *"A craftsman is only as good as his tools — and I keep mine sharp."*
 
-### 🔧 Backend
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6B35?style=for-the-badge&logo=postman&logoColor=white)
+<br/>
 
-### 🗄️ Database
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logoColor=white)
+<!-- ───── ROW 1 ───── -->
+<table>
+  <tr>
+    <td align="center" width="50%">
 
-### ⚙️ DevTools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=000)
+### ⚛️ Frontend Development
+
+| Technology | Badge | Level |
+|:---|:---:|:---:|
+| **React.js** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) | ⭐⭐⭐⭐⭐ |
+| **JavaScript (ES6+)** | ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ⭐⭐⭐⭐⭐ |
+| **HTML5** | ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) | ⭐⭐⭐⭐⭐ |
+| **CSS3** | ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) | ⭐⭐⭐⭐⭐ |
+| **Tailwind CSS** | ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) | ⭐⭐⭐⭐⭐ |
+| **Redux** | ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white) | ⭐⭐⭐⭐ |
+| **Vite** | ![Vite](https://img.shields.io/badge/Vite-B73BFE?style=flat-square&logo=vite&logoColor=FFD62E) | ⭐⭐⭐⭐ |
+| **TypeScript** | ![TS](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) | ⭐⭐⭐ |
+
+</td>
+    <td align="center" width="50%">
+
+### ⚙️ Backend Development
+
+| Technology | Badge | Level |
+|:---|:---:|:---:|
+| **Node.js** | ![Node](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) | ⭐⭐⭐⭐⭐ |
+| **Express.js** | ![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) | ⭐⭐⭐⭐⭐ |
+| **REST APIs** | ![REST](https://img.shields.io/badge/REST_API-FF6B35?style=flat-square&logo=postman&logoColor=white) | ⭐⭐⭐⭐⭐ |
+| **JWT Auth** | ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white) | ⭐⭐⭐⭐⭐ |
+| **MongoDB** | ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) | ⭐⭐⭐⭐⭐ |
+| **Mongoose** | ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white) | ⭐⭐⭐⭐⭐ |
+
+</td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- ───── ROW 2 ───── -->
+<table>
+  <tr>
+    <td align="center" width="50%">
+
+### 🧰 Dev Tools & Workflow
+
+| Tool | Badge | Purpose |
+|:---|:---:|:---:|
+| **Git** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) | Version Control |
+| **GitHub** | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) | Code Hosting |
+| **VS Code** | ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) | IDE |
+| **Postman** | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) | API Testing |
+| **NPM** | ![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=white) | Package Manager |
+
+</td>
+    <td align="center" width="50%">
+
+### ☁️ Deployment & Platforms
+
+| Platform | Badge | Use Case |
+|:---|:---:|:---:|
+| **Vercel** | ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) | Frontend Deploy |
+| **Render** | ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=000) | Backend Hosting |
+| **GitHub Actions** | ![Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) | CI/CD Pipeline |
+| **MongoDB Atlas** | ![Atlas](https://img.shields.io/badge/MongoDB_Atlas-47A248?style=flat-square&logo=mongodb&logoColor=white) | Cloud Database |
+
+</td>
+  </tr>
+</table>
+
+<br/>
+
+### 📊 Skill Proficiency Overview
+
+```
+Frontend (React / JS / CSS)   ████████████████████  98%
+Backend  (Node / Express)     ███████████████████░  95%
+Database (MongoDB)            ███████████████████░  90%
+REST API Design               ████████████████████  95%
+Git & Version Control         ██████████████████░░  88%
+TypeScript                    ████████████░░░░░░░░  60%
+```
 
 </div>
 

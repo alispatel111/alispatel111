@@ -20,31 +20,29 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" alt="full stack gif"/>
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
-```javascript
-// 👨‍💻 Alis Patel — Full Stack Developer
+I'm **Alis Patel**, a passionate **Full Stack MERN Developer** from **India** 🇮🇳
 
-const stack = {
-  
-  🎨  frontend  : [ "React.js", "JavaScript", "Tailwind CSS" ],
-  
-  ⚙️  backend   : [ "Node.js", "Express.js", "REST API" ],
-  
-  🗄️  database  : [ "MongoDB", "Mongoose" ],
-  
-  🔧  tools     : [ "Git", "Postman", "VS Code" ],
-  
-  📍  location  : "India 🇮🇳",
-  
-  🚀  building  : "SOLARKITS ERP System",
-  
-  🌱  learning  : "TypeScript · System Design",
-  
-  ☕  debug     : "console.log() + coffee",
+I specialize in building end-to-end web applications —
+from designing beautiful responsive **frontends** with React
+to crafting robust **backends** with Node.js & Express,
+backed by **MongoDB** for data storage.
 
-};
-```
+I love writing clean code, solving real-world problems,
+and continuously improving my craft every single day.
+
+<br/>
+
+🔥 &nbsp;**Full Stack:** `React` + `Node.js` + `Express` + `MongoDB`
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Frontend:** `JavaScript` · `Tailwind CSS` · `HTML5` · `CSS3`
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Backend:** `REST APIs` · `JWT Auth` · `Mongoose`
+
+<br/>
+
+🚀 &nbsp;Currently building → **SOLARKITS ERP System**
+🌱 &nbsp;Currently learning → **TypeScript · System Design**
+⚡ &nbsp;Fun fact → Coffee + `console.log()` = my debugging stack ☕
 
 <br clear="right"/>
 

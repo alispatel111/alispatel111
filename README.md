@@ -6,29 +6,15 @@
 
 <br/>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/alispatel/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" height="28" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:alispatel123098@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" height="28" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://alispatel.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" height="28" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/alispatel111" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=white" height="28" />
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alispatel/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alispatel123098@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://alispatel.vercel.app)
+[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alispatel111)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=alispatel111&color=7c3aed&style=flat-square&label=Profile+Views" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/github/followers/alispatel111?style=flat-square&color=7c3aed&label=Followers" />
-</p>
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=alispatel111&color=7c3aed&style=flat-square&label=Profile+Views)&nbsp;
+![GitHub followers](https://img.shields.io/github/followers/alispatel111?style=flat-square&color=7c3aed&label=Followers)
 
 </div>
 

@@ -20,29 +20,36 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
-I'm **Alis Patel**, a passionate **Full Stack MERN Developer** from **India** 🇮🇳
+### Hi, I'm Alis Patel 👋
 
-I specialize in building end-to-end web applications —
-from designing beautiful responsive **frontends** with React
-to crafting robust **backends** with Node.js & Express,
-backed by **MongoDB** for data storage.
+I'm a **Full Stack MERN Developer** from **India** 🇮🇳 who loves
+turning ideas into real, functional, and beautiful web applications.
 
-I love writing clean code, solving real-world problems,
-and continuously improving my craft every single day.
+I work across the **entire stack** — crafting pixel-perfect UIs with
+**React**, building scalable APIs with **Node.js & Express**,
+and managing data with **MongoDB**.
 
-<br/>
-
-🔥 &nbsp;**Full Stack:** `React` + `Node.js` + `Express` + `MongoDB`
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Frontend:** `JavaScript` · `Tailwind CSS` · `HTML5` · `CSS3`
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Backend:** `REST APIs` · `JWT Auth` · `Mongoose`
+I'm driven by clean code, great UX, and the joy of shipping products
+that actually solve problems.
 
 <br/>
 
-🚀 &nbsp;Currently building → **SOLARKITS ERP System**
-🌱 &nbsp;Currently learning → **TypeScript · System Design**
-⚡ &nbsp;Fun fact → Coffee + `console.log()` = my debugging stack ☕
+**🧩 My Full Stack:**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+<br/>
+
+- 🚀 &nbsp;Currently building → **SOLARKITS ERP System**
+- 🌱 &nbsp;Currently learning → **TypeScript · System Design**
+- ⚡ &nbsp;Fun fact → Coffee + `console.log()` = my debugging stack ☕
 
 <br clear="right"/>
 

@@ -121,6 +121,8 @@ that actually solve problems.
 
 <div align="center">
 
+---
+
 ### 💳 QR Payment System
 > *Smart contactless payments powered by QR & NFC technology*
 
@@ -137,35 +139,35 @@ that actually solve problems.
 
 ---
 
-### 💼 Job Portal — MERN Stack
-> *Full-featured job marketplace with employer & candidate portals*
+### 🧬 Biology Turn
+> *An interactive biology learning platform for students*
 
 [![Repo](https://img.shields.io/badge/View_Repo-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alispatel111)
 [![Live](https://img.shields.io/badge/Live_Demo-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](#)
 
 **Key Features:**
-- 🔍 Smart job search & filtering
-- 👤 Employer & candidate dashboards
-- 🛡️ Admin panel with full controls
-- 📬 Application tracking system
+- 📚 Interactive biology content & modules
+- 🎯 Topic-wise structured learning
+- 🖥️ Clean & responsive UI design
+- ✅ Student-friendly interface
 
-`React` `Redux` `Node.js` `Express` `MongoDB` `Tailwind CSS`
+`React` `Node.js` `Express` `MongoDB` `Tailwind CSS`
 
 ---
 
-### 🏦 Banking Website
-> *Modern, responsive banking UI with smooth UX and professional design*
+### ✈️ FlyAnyTrip
+> *A modern flight & travel booking web application*
 
 [![Repo](https://img.shields.io/badge/View_Repo-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alispatel111)
 [![Live](https://img.shields.io/badge/Live_Demo-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](#)
 
 **Key Features:**
-- 🎨 Modern & fully responsive UI
-- 💡 Smooth page transitions & animations
-- 📱 Mobile-first design approach
-- ✅ Accessibility-focused layout
+- ✈️ Flight search & booking system
+- 🌍 Multi-destination travel planning
+- 📅 Date-based availability filtering
+- 💳 Secure payment integration
 
-`React` `CSS3` `HTML5` `JavaScript`
+`React` `Node.js` `Express` `MongoDB` `JavaScript` `CSS3`
 
 </div>
 

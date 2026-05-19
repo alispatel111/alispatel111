@@ -153,6 +153,22 @@ that actually solve problems.
 
 `React` `Node.js` `Express` `MongoDB` `JavaScript` `CSS3`
 
+---
+
+### 🧬 Biology Trunk
+> *An interactive biology learning platform for students*
+
+[![Repo](https://img.shields.io/badge/View_Repo-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alispatel111)
+[![Live](https://img.shields.io/badge/Live_Demo-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](#)
+
+**Key Features:**
+- 📚 Interactive biology content & modules
+- 🎯 Topic-wise structured learning
+- 🖥️ Clean & fully responsive UI
+- ✅ Student-friendly interface
+
+`React` `Node.js` `Express` `MongoDB` `Tailwind CSS`
+
 </div>
 
 ---

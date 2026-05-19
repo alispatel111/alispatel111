@@ -125,7 +125,7 @@ that actually solve problems.
 <tr>
 <td width="50%" valign="top" align="left">
 
-![](https://img.shields.io/badge/PROJECT_01-7c3aed?style=for-the-badge)
+![](https://img.shields.io/badge/◈_01-QR__Payment__System-7c3aed?style=for-the-badge&logoColor=white)
 
 ### 💳 QR Payment System
 
@@ -154,7 +154,7 @@ that actually solve problems.
 </td>
 <td width="50%" valign="top" align="left">
 
-![](https://img.shields.io/badge/PROJECT_02-10b981?style=for-the-badge)
+![](https://img.shields.io/badge/◈_02-TripEasy-10b981?style=for-the-badge&logoColor=white)
 
 ### 🧳 TripEasy
 
@@ -186,7 +186,7 @@ that actually solve problems.
 <tr>
 <td width="50%" valign="top" align="left">
 
-![](https://img.shields.io/badge/PROJECT_03-3b82f6?style=for-the-badge)
+![](https://img.shields.io/badge/◈_03-Biology__Trunk-3b82f6?style=for-the-badge&logoColor=white)
 
 ### 🧬 Biology Trunk
 
@@ -215,7 +215,7 @@ that actually solve problems.
 </td>
 <td width="50%" valign="top" align="left">
 
-![](https://img.shields.io/badge/PROJECT_04-f59e0b?style=for-the-badge)
+![](https://img.shields.io/badge/◈_04-FlyAnyTrip-f59e0b?style=for-the-badge&logoColor=white)
 
 ### ✈️ FlyAnyTrip
 

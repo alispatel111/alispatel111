@@ -183,17 +183,30 @@ that actually solve problems.
 - ✅ Student-friendly interface
 </td>
 <td width="50%" valign="top">
-<br/><br/><br/>
-<div align="center">
+<h3>✈️ FlyAnyTrip</h3>
+<p><em>Modern flight search & travel booking web application</em></p>
 
-**🔗 View All Projects**
+[![Repo](https://img.shields.io/badge/View_Repo-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alispatel111/flyanytrip)
+[![Live](https://img.shields.io/badge/Live_Demo-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](#)
 
-[![GitHub](https://img.shields.io/badge/All_Projects_on_GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alispatel111?tab=repositories)
+**Tech Stack:**<br/>
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-</div>
+**Key Features:**
+- ✅ Flight search & booking system
+- ✅ Multi-destination travel planning
+- ✅ Date-based availability filter
+- ✅ Secure payment integration
 </td>
 </tr>
 </table>
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/🔗_View_All_Projects_on_GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alispatel111?tab=repositories)
 
 </div>
 

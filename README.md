@@ -125,9 +125,9 @@ that actually solve problems.
 <tr>
 <td width="50%" valign="top" align="left">
 
-![](https://img.shields.io/badge/◈_01-QR__Payment__System-7c3aed?style=for-the-badge&logoColor=white)
+[![QR Badge](https://img.shields.io/badge/◈_01-QR__Payment__System-7c3aed?style=for-the-badge&logoColor=white)](https://github.com/Abhishek05012004/stp)
 
-### 💳 QR Payment System
+### [💳 QR Payment System](https://scantappay.vercel.app)
 
 *Full-stack e-commerce platform with contactless QR & NFC scan-to-purchase in under 2 seconds*
 
@@ -163,9 +163,9 @@ that actually solve problems.
 </td>
 <td width="50%" valign="top" align="left">
 
-![](https://img.shields.io/badge/◈_02-TripEasy-10b981?style=for-the-badge&logoColor=white)
+[![TripEasy Badge](https://img.shields.io/badge/◈_02-TripEasy-10b981?style=for-the-badge&logoColor=white)](https://github.com/alisproject111/tripeasy-client)
 
-### 🧳 TripEasy
+### [🧳 TripEasy](https://tripeasy.in)
 
 *Comprehensive travel tech platform to simplify trip planning — from discovery to booking, seamlessly*
 
@@ -205,9 +205,9 @@ that actually solve problems.
 <tr>
 <td width="50%" valign="top" align="left">
 
-![](https://img.shields.io/badge/◈_03-Biology__Trunk-3b82f6?style=for-the-badge&logoColor=white)
+[![Biology Trunk Badge](https://img.shields.io/badge/◈_03-Biology__Trunk-3b82f6?style=for-the-badge&logoColor=white)](https://github.com/W3BOPERATIONS/biology-trunk-client)
 
-### 🧬 Biology Trunk
+### [🧬 Biology Trunk](https://biologytrunk.in)
 
 *Online academic learning platform focused on biology education, featuring interactive lessons and progress tracking*
 
@@ -244,9 +244,9 @@ that actually solve problems.
 </td>
 <td width="50%" valign="top" align="left">
 
-![](https://img.shields.io/badge/◈_04-FlyAnyTrip-f59e0b?style=for-the-badge&logoColor=white)
+[![FlyAnyTrip Badge](https://img.shields.io/badge/◈_04-FlyAnyTrip-f59e0b?style=for-the-badge&logoColor=white)](https://github.com/alispatel111/flyanytrip-frontend)
 
-### ✈️ FlyAnyTrip
+### [✈️ FlyAnyTrip](https://flyanytrip-frontend.vercel.app)
 
 *Modern travel booking platform with real-time flight search, multi-destination routing, and automated invoicing*
 

@@ -18,31 +18,32 @@
 
 ---
 
-## 🧑‍💻 Who Am I?
+## 👨‍💻 About Me
 
-<img align="right" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="coding gif"/>
+<img align="right" width="340" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="coding gif"/>
 
-```typescript
-const alisPatel: Developer = {
-  name        : "Alis Patel",
-  title       : "Full Stack MERN Developer",
-  location    : "India 🇮🇳",
-  email       : "yourmail@gmail.com",
+### Hi there! I'm **Alis Patel** 👋
 
-  currentWork : "SOLARKITS ERP System",
-  learning    : ["System Design", "TypeScript", "Docker"],
-  interests   : ["Open Source", "UI/UX", "Scalable APIs"],
+A passionate **Full Stack MERN Developer** from 🇮🇳 India, who loves turning complex problems into clean, scalable, and beautiful web applications.
 
-  skills: {
-    frontend  : ["React.js", "JavaScript", "Tailwind CSS"],
-    backend   : ["Node.js", "Express.js", "REST APIs"],
-    database  : ["MongoDB", "Mongoose"],
-    tools     : ["Git", "Postman", "VS Code"],
-  },
+<br/>
 
-  funFact     : "I debug with console.log and I'm proud 😄",
-  openTo      : "Full-time roles & freelance projects ✅",
-};
+🚀 &nbsp;**Currently building** → `SOLARKITS ERP System`  
+🌱 &nbsp;**Currently learning** → `TypeScript` · `System Design` · `Docker`  
+💼 &nbsp;**Open to** → Full-time roles & Freelance projects  
+💬 &nbsp;**Ask me about** → `React` · `Node.js` · `MongoDB` · `Express`  
+📧 &nbsp;**Reach me at** → yourmail@gmail.com  
+⚡ &nbsp;**Fun fact** → I debug with `console.log` and I'm proud 😄  
+
+<br/>
+
+```js
+while (alive) {
+  eat();
+  sleep();
+  code();   // ← this is the important one 😄
+  repeat();
+}
 ```
 
 <br clear="right"/>

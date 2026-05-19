@@ -6,26 +6,29 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/alispatel/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="50" height="50" alt="LinkedIn" />
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="mailto:alispatel123098@gmail.com" target="_blank">
-  <img src="https://skillicons.dev/icons?i=gmail" width="50" height="50" alt="Gmail" />
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/alispatel111" target="_blank">
-  <img src="https://skillicons.dev/icons?i=github" width="50" height="50" alt="GitHub" />
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://alispatel.vercel.app" target="_blank">
-  <img src="./alis-logo.png" width="50" height="50" style="border-radius: 10px; object-fit: cover;" alt="Portfolio" />
-</a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/alispatel/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" height="28" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:alispatel123098@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" height="28" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://alispatel.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" height="28" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/alispatel111" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=white" height="28" />
+  </a>
+</p>
 
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=alispatel111&color=7c3aed&style=flat-square&label=Profile+Views)&nbsp;
-![GitHub followers](https://img.shields.io/github/followers/alispatel111?style=flat-square&color=7c3aed&label=Followers)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=alispatel111&color=7c3aed&style=flat-square&label=Profile+Views" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/github/followers/alispatel111?style=flat-square&color=7c3aed&label=Followers" />
+</p>
 
 </div>
 

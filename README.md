@@ -377,7 +377,7 @@ that actually solve problems.
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://yourportfolio.vercel.app" target="_blank">
-  <img src="https://skillicons.dev/icons?i=vercel" width="60" height="60" alt="Portfolio" />
+  <img src="./alis-logo.png" width="60" height="60" style="border-radius: 12px; object-fit: cover;" alt="Portfolio" />
 </a>
 
 <br/><br/><br/>

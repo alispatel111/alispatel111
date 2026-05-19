@@ -120,139 +120,98 @@ that actually solve problems.
 <div align="center"><br/>
 
 <table width="100%">
-
-<!-- ───────────────── PROJECT 01 ───────────────── -->
-<tr><td colspan="2">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,100:a855f7&height=55&text=%F0%9F%92%B3%20QR%20Payment%20System&fontColor=ffffff&fontSize=22&fontAlign=4&fontAlignY=62&desc=01%20%7C%20Smart%20QR%20%26%20NFC%20based%20contactless%20payment%20%26%20billing%20system&descFontSize=11&descFontColor=e2d9f3&descAlign=4&descAlignY=87" width="100%" />
-
-</td></tr>
 <tr>
 <td width="50%" valign="top" align="left">
 
-**🧩 Tech Stack**
+[![p1](https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-7c3aed?style=for-the-badge)](https://github.com/alispatel111)
 
+**💳 01 &nbsp;·&nbsp; QR Payment System**
+*Smart QR & NFC contactless payment & billing system*
+
+[![GitHub](https://img.shields.io/badge/GitHub_Repo-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alispatel111)
+[![Live](https://img.shields.io/badge/Live_Demo-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](#)
+
+**🧩 Stack** &nbsp;
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-404D59?style=flat-square&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=jsonwebtokens)
 
+**✅ Features**
+`📱 QR & NFC Payments` &nbsp; `📊 Real-time Dashboard`
+`🧾 Invoice Generation` &nbsp; `🔐 JWT Auth`
+
 </td>
 <td width="50%" valign="top" align="left">
 
-**✅ Key Features**
+[![p2](https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-10b981?style=for-the-badge)](https://github.com/alispatel111)
 
-- 📱 QR & NFC based instant payments
-- 📊 Real-time billing dashboard
-- 🧾 Invoice generation & management
-- 🔐 Secure JWT authentication
+**🧳 02 &nbsp;·&nbsp; TripEasy**
+*Smart travel planning & booking with multi-destination support*
 
 [![GitHub](https://img.shields.io/badge/GitHub_Repo-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alispatel111)
 [![Live](https://img.shields.io/badge/Live_Demo-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](#)
 
-</td>
-</tr>
-
-<!-- ───────────────── PROJECT 02 ───────────────── -->
-<tr><td colspan="2"><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:059669,100:10b981&height=55&text=%F0%9F%A7%B3%20TripEasy&fontColor=ffffff&fontSize=22&fontAlign=4&fontAlignY=62&desc=02%20%7C%20Smart%20travel%20planning%20%26%20booking%20web%20app%20with%20multi-destination%20support&descFontSize=11&descFontColor=d1fae5&descAlign=4&descAlignY=87" width="100%" />
-
-</td></tr>
-<tr>
-<td width="50%" valign="top" align="left">
-
-**🧩 Tech Stack**
-
+**🧩 Stack** &nbsp;
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-404D59?style=flat-square&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
+**✅ Features**
+`🌍 Multi-destination` &nbsp; `🔍 Smart Search`
+`📅 Date Filters` &nbsp; `💳 Secure Payments`
+
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top" align="left">
 
-**✅ Key Features**
+[![p3](https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-3b82f6?style=for-the-badge)](https://github.com/alispatel111)
 
-- 🌍 Multi-destination trip planning
-- 🔍 Smart search & date filtering
-- 📅 Booking & availability system
-- 💳 Secure payment integration
+**🧬 03 &nbsp;·&nbsp; Biology Trunk**
+*Interactive biology learning platform for students*
 
 [![GitHub](https://img.shields.io/badge/GitHub_Repo-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alispatel111)
 [![Live](https://img.shields.io/badge/Live_Demo-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](#)
 
-</td>
-</tr>
-
-<!-- ───────────────── PROJECT 03 ───────────────── -->
-<tr><td colspan="2"><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1d4ed8,100:3b82f6&height=55&text=%F0%9F%A7%AC%20Biology%20Trunk&fontColor=ffffff&fontSize=22&fontAlign=4&fontAlignY=62&desc=03%20%7C%20Interactive%20biology%20learning%20platform%20for%20students%20with%20topic-wise%20modules&descFontSize=11&descFontColor=dbeafe&descAlign=4&descAlignY=87" width="100%" />
-
-</td></tr>
-<tr>
-<td width="50%" valign="top" align="left">
-
-**🧩 Tech Stack**
-
+**🧩 Stack** &nbsp;
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-404D59?style=flat-square&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
+**✅ Features**
+`📚 Topic Modules` &nbsp; `🎯 Interactive Learning`
+`🖥️ Responsive UI` &nbsp; `👨‍🎓 Student Friendly`
+
 </td>
 <td width="50%" valign="top" align="left">
 
-**✅ Key Features**
+[![p4](https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-f59e0b?style=for-the-badge)](https://github.com/alispatel111)
 
-- 📚 Topic-wise structured learning
-- 🎯 Interactive biology modules
-- 🖥️ Clean & responsive UI
-- 👨‍🎓 Student-friendly interface
+**✈️ 04 &nbsp;·&nbsp; FlyAnyTrip**
+*Modern flight search & travel booking web application*
 
 [![GitHub](https://img.shields.io/badge/GitHub_Repo-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alispatel111)
 [![Live](https://img.shields.io/badge/Live_Demo-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](#)
 
-</td>
-</tr>
-
-<!-- ───────────────── PROJECT 04 ───────────────── -->
-<tr><td colspan="2"><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:d97706,100:f59e0b&height=55&text=%E2%9C%88%EF%B8%8F%20FlyAnyTrip&fontColor=ffffff&fontSize=22&fontAlign=4&fontAlignY=62&desc=04%20%7C%20Modern%20flight%20search%20%26%20travel%20booking%20web%20application&descFontSize=11&descFontColor=fef3c7&descAlign=4&descAlignY=87" width="100%" />
-
-</td></tr>
-<tr>
-<td width="50%" valign="top" align="left">
-
-**🧩 Tech Stack**
-
+**🧩 Stack** &nbsp;
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-404D59?style=flat-square&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 ![JS](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-</td>
-<td width="50%" valign="top" align="left">
-
-**✅ Key Features**
-
-- ✈️ Flight search & booking system
-- 🌍 Multi-destination travel planning
-- 📅 Date-based availability filter
-- 💳 Secure payment integration
-
-[![GitHub](https://img.shields.io/badge/GitHub_Repo-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alispatel111)
-[![Live](https://img.shields.io/badge/Live_Demo-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](#)
+**✅ Features**
+`✈️ Flight Booking` &nbsp; `🌍 Multi-destination`
+`📅 Date Filters` &nbsp; `💳 Secure Payment`
 
 </td>
 </tr>
-
 </table>
 
 <br/>

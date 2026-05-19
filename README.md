@@ -22,29 +22,26 @@
 
 <img align="right" width="340" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="coding gif"/>
 
-### Hi there! I'm **Alis Patel** 👋
+### Hi, I'm **Alis Patel** — a Full Stack Developer from India 🇮🇳
 
-A passionate **Full Stack MERN Developer** from 🇮🇳 India, who loves turning complex problems into clean, scalable, and beautiful web applications.
-
-<br/>
-
-🚀 &nbsp;**Currently building** → `SOLARKITS ERP System`  
-🌱 &nbsp;**Currently learning** → `TypeScript` · `System Design` · `Docker`  
-💼 &nbsp;**Open to** → Full-time roles & Freelance projects  
-💬 &nbsp;**Ask me about** → `React` · `Node.js` · `MongoDB` · `Express`  
-📧 &nbsp;**Reach me at** → yourmail@gmail.com  
-⚡ &nbsp;**Fun fact** → I debug with `console.log` and I'm proud 😄  
+I'm a passionate **MERN Stack Developer** who loves crafting
+clean, fast, and scalable web applications.
+I enjoy solving real-world problems through code and building
+things that actually matter.
 
 <br/>
 
-```js
-while (alive) {
-  eat();
-  sleep();
-  code();   // ← this is the important one 😄
-  repeat();
-}
-```
+- 🔭 &nbsp;Currently working on **SOLARKITS ERP System**
+- 🌱 &nbsp;Currently exploring **TypeScript**, **System Design** & **Docker**
+- 💬 &nbsp;Ask me about **React · Node.js · Express · MongoDB**
+- 🎯 &nbsp;Goal: Write code that is clean, efficient & impactful
+- ⚡ &nbsp;Fun fact: Coffee + `console.log()` = my debugging setup ☕
+
+<br/>
+
+> *"Any fool can write code that a computer can understand.*
+> *Good programmers write code that humans can understand."*
+> — Martin Fowler
 
 <br clear="right"/>
 

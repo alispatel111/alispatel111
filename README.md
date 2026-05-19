@@ -7,8 +7,7 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alis-patel)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yourmail@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.vercel.app)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alispatel111@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alispatel111)
 
 <br/>
@@ -357,27 +356,40 @@ that actually solve problems.
 
 ---
 
-## 💭 Dev Quote of the Day
-
-<div align="center">
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
-
-</div>
-
----
-
 ## 📬 Let's Connect!
 
 <div align="center">
 
-> *"Clean code always looks like it was written by someone who cares." — Robert C. Martin*
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alis-patel)
-[![Mail](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yourmail@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Visit_Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.vercel.app)
+<table width="100%" style="border-collapse: collapse; border: 1px solid #30363d; border-radius: 12px; overflow: hidden; background: #0d1117; max-width: 700px; margin: 0 auto;">
+<tr style="background: #161b22; height: 35px; border-bottom: 1px solid #30363d;">
+  <td colspan="3" style="padding-left: 15px; font-family: monospace; font-size: 13px; color: #a78bfa; font-weight: bold; border: none; text-align: left;">
+    📟 contact_information.env
+  </td>
+</tr>
+<tr>
+  <td width="33%" align="center" style="padding: 20px 10px; border: none; background: #0b0914;">
+    <a href="https://linkedin.com/in/alis-patel" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40" alt="LinkedIn" />
+      <br/><br/>
+      <code style="color: #a78bfa;">in/alis-patel</code>
+    </a>
+  </td>
+  <td width="34%" align="center" style="padding: 20px 10px; border: none; background: #0b0914; border-left: 1px solid rgba(255,255,255,0.05); border-right: 1px solid rgba(255,255,255,0.05);">
+    <a href="mailto:alispatel111@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40" alt="Gmail" />
+      <br/><br/>
+      <code style="color: #a78bfa;">alispatel111@gmail.com</code>
+    </a>
+  </td>
+  <td width="33%" align="center" style="padding: 20px 10px; border: none; background: #0b0914;">
+    <a href="https://github.com/alispatel111" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" height="40" alt="GitHub" />
+      <br/><br/>
+      <code style="color: #a78bfa;">@alispatel111</code>
+    </a>
+  </td>
+</tr>
+</table>
 
 <br/>
 

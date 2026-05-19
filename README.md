@@ -1,16 +1,62 @@
-## Hi there 👋
+# Hi 👋, I'm Alis Patel
 
-<!--
-**alispatel111/alispatel111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 MERN Stack Developer
 
-Here are some ideas to get you started:
+💻 Passionate Full Stack Developer from India
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌐 Connect With Me
+
+- 💼 LinkedIn: https://linkedin.com/in/alis-patel
+- 📧 Email: yourmail@gmail.com
+- 🌍 Portfolio: https://yourportfolio.vercel.app
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+- React.js
+- HTML5
+- CSS3
+- JavaScript
+- Tailwind CSS
+
+### Backend
+- Node.js
+- Express.js
+
+### Database
+- MongoDB
+
+---
+
+## 🚀 Projects
+
+### 🔹 QR Payment System
+A smart QR/NFC based payment and billing system.
+
+### 🔹 Job Portal
+MERN Stack Job Portal with Admin Dashboard.
+
+### 🔹 Banking Website
+Responsive banking UI website.
+
+---
+
+## 📈 GitHub Stats
+
+![Alis's GitHub stats](https://github-readme-stats.vercel.app/api?username=alispatel111&show_icons=true&theme=tokyonight)
+
+---
+
+## 🔥 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alispatel111&layout=compact&theme=tokyonight)
+
+---
+
+## 👀 Profile Views
+
+![](https://komarev.com/ghpvc/?username=alispatel111)

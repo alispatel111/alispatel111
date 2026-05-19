@@ -123,90 +123,161 @@ that actually solve problems.
 
 <table>
 <tr>
-<td width="50%" valign="top">
-<h3>💳 QR Payment System</h3>
-<p><em>Smart contactless payments via QR & NFC technology</em></p>
 
-[![Repo](https://img.shields.io/badge/View_Repo-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alispatel111/qr-payment-system)
-[![Live](https://img.shields.io/badge/Live_Demo-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](#)
+<td width="50%" valign="top" style="padding: 16px;">
 
-**Tech Stack:**<br/>
+<img src="https://img.shields.io/badge/01──────────────────────────────────────────-7c3aed?style=for-the-badge" width="100%"/>
+
+### 💳 QR Payment System
+
+> *Smart contactless payments via QR & NFC technology*
+
+<br/>
+
+[![Repo](https://img.shields.io/badge/⬡_View_Repo-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alispatel111/qr-payment-system)&nbsp;
+[![Live](https://img.shields.io/badge/⬡_Live_Demo-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](#)
+
+<br/>
+
+**🧩 Tech Stack**
+
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-404D59?style=flat-square&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=jsonwebtokens)
 
-**Key Features:**
-- ✅ QR & NFC based instant payments
-- ✅ Real-time billing dashboard
-- ✅ Invoice generation & management
-- ✅ Secure JWT authentication
+<br/>
+
+**✅ Key Features**
+
+- 📱 &nbsp;QR & NFC based instant payments
+- 📊 &nbsp;Real-time billing dashboard
+- 🧾 &nbsp;Invoice generation & management
+- 🔐 &nbsp;Secure JWT authentication
+
+<br/>
+
 </td>
-<td width="50%" valign="top">
-<h3>🧳 TripEasy</h3>
-<p><em>Smart travel planning & booking with multi-destination support</em></p>
 
-[![Repo](https://img.shields.io/badge/View_Repo-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alispatel111/tripeasy)
-[![Live](https://img.shields.io/badge/Live_Demo-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](#)
+<td width="50%" valign="top" style="padding: 16px;">
 
-**Tech Stack:**<br/>
+<img src="https://img.shields.io/badge/02──────────────────────────────────────────-10b981?style=for-the-badge" width="100%"/>
+
+### 🧳 TripEasy
+
+> *Smart travel planning & booking with multi-destination support*
+
+<br/>
+
+[![Repo](https://img.shields.io/badge/⬡_View_Repo-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alispatel111/tripeasy)&nbsp;
+[![Live](https://img.shields.io/badge/⬡_Live_Demo-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](#)
+
+<br/>
+
+**🧩 Tech Stack**
+
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-404D59?style=flat-square&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-**Key Features:**
-- ✅ Multi-destination trip planning
-- ✅ Smart search & date filtering
-- ✅ Booking & availability system
-- ✅ Secure payment integration
+<br/>
+
+**✅ Key Features**
+
+- 🌍 &nbsp;Multi-destination trip planning
+- 🔍 &nbsp;Smart search & date filtering
+- 📅 &nbsp;Booking & availability system
+- 💳 &nbsp;Secure payment integration
+
+<br/>
+
 </td>
+
 </tr>
 <tr>
-<td width="50%" valign="top">
-<h3>🧬 Biology Trunk</h3>
-<p><em>Interactive biology learning platform for students</em></p>
 
-[![Repo](https://img.shields.io/badge/View_Repo-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alispatel111/biology-trunk)
-[![Live](https://img.shields.io/badge/Live_Demo-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](#)
+<td width="50%" valign="top" style="padding: 16px;">
 
-**Tech Stack:**<br/>
+<img src="https://img.shields.io/badge/03──────────────────────────────────────────-3b82f6?style=for-the-badge" width="100%"/>
+
+### 🧬 Biology Trunk
+
+> *Interactive biology learning platform for students*
+
+<br/>
+
+[![Repo](https://img.shields.io/badge/⬡_View_Repo-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alispatel111/biology-trunk)&nbsp;
+[![Live](https://img.shields.io/badge/⬡_Live_Demo-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](#)
+
+<br/>
+
+**🧩 Tech Stack**
+
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-404D59?style=flat-square&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
-**Key Features:**
-- ✅ Topic-wise structured learning
-- ✅ Interactive biology modules
-- ✅ Clean & responsive UI
-- ✅ Student-friendly interface
+<br/>
+
+**✅ Key Features**
+
+- 📚 &nbsp;Topic-wise structured learning
+- 🎯 &nbsp;Interactive biology modules
+- 🖥️ &nbsp;Clean & responsive UI
+- 👨‍🎓 &nbsp;Student-friendly interface
+
+<br/>
+
 </td>
-<td width="50%" valign="top">
-<h3>✈️ FlyAnyTrip</h3>
-<p><em>Modern flight search & travel booking web application</em></p>
 
-[![Repo](https://img.shields.io/badge/View_Repo-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alispatel111/flyanytrip)
-[![Live](https://img.shields.io/badge/Live_Demo-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](#)
+<td width="50%" valign="top" style="padding: 16px;">
 
-**Tech Stack:**<br/>
+<img src="https://img.shields.io/badge/04──────────────────────────────────────────-f59e0b?style=for-the-badge" width="100%"/>
+
+### ✈️ FlyAnyTrip
+
+> *Modern flight search & travel booking web application*
+
+<br/>
+
+[![Repo](https://img.shields.io/badge/⬡_View_Repo-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alispatel111/flyanytrip)&nbsp;
+[![Live](https://img.shields.io/badge/⬡_Live_Demo-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](#)
+
+<br/>
+
+**🧩 Tech Stack**
+
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-404D59?style=flat-square&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-**Key Features:**
-- ✅ Flight search & booking system
-- ✅ Multi-destination travel planning
-- ✅ Date-based availability filter
-- ✅ Secure payment integration
+<br/>
+
+**✅ Key Features**
+
+- ✈️ &nbsp;Flight search & booking system
+- 🌍 &nbsp;Multi-destination travel planning
+- 📅 &nbsp;Date-based availability filter
+- 💳 &nbsp;Secure payment integration
+
+<br/>
+
 </td>
+
 </tr>
 </table>
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/🔗_View_All_Projects_on_GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alispatel111?tab=repositories)
+[![GitHub](https://img.shields.io/badge/View_All_Projects_on_GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alispatel111?tab=repositories)
+
 
 </div>
 

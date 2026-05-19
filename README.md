@@ -48,7 +48,7 @@ that actually solve problems.
 <br/>
 
 - 🚀 &nbsp;Currently building → **SOLARKITS ERP System**
-- 🌱 &nbsp;Currently learning → **TypeScript · System Design**
+- 🌱 &nbsp;Currently learning → **Full Stack Development**
 - ⚡ &nbsp;Fun fact → Coffee + `console.log()` = my debugging stack ☕
 
 <br clear="right"/>

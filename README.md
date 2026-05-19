@@ -20,28 +20,31 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" width="340" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="coding gif"/>
+<img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" alt="full stack gif"/>
 
-### Hi, I'm **Alis Patel** — a Full Stack Developer from India 🇮🇳
+```javascript
+// 👨‍💻 Alis Patel — Full Stack Developer
 
-I'm a passionate **MERN Stack Developer** who loves crafting
-clean, fast, and scalable web applications.
-I enjoy solving real-world problems through code and building
-things that actually matter.
+const stack = {
+  
+  🎨  frontend  : [ "React.js", "JavaScript", "Tailwind CSS" ],
+  
+  ⚙️  backend   : [ "Node.js", "Express.js", "REST API" ],
+  
+  🗄️  database  : [ "MongoDB", "Mongoose" ],
+  
+  🔧  tools     : [ "Git", "Postman", "VS Code" ],
+  
+  📍  location  : "India 🇮🇳",
+  
+  🚀  building  : "SOLARKITS ERP System",
+  
+  🌱  learning  : "TypeScript · System Design",
+  
+  ☕  debug     : "console.log() + coffee",
 
-<br/>
-
-- 🔭 &nbsp;Currently working on **SOLARKITS ERP System**
-- 🌱 &nbsp;Currently exploring **TypeScript**, **System Design** & **Docker**
-- 💬 &nbsp;Ask me about **React · Node.js · Express · MongoDB**
-- 🎯 &nbsp;Goal: Write code that is clean, efficient & impactful
-- ⚡ &nbsp;Fun fact: Coffee + `console.log()` = my debugging setup ☕
-
-<br/>
-
-> *"Any fool can write code that a computer can understand.*
-> *Good programmers write code that humans can understand."*
-> — Martin Fowler
+};
+```
 
 <br clear="right"/>
 

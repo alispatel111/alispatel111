@@ -11,7 +11,9 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.vercel.app)
 [![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alispatel111)
 
-![Profile Views](https://komarev.com/ghpvc/?username=alispatel111&color=7c3aed&style=flat-square&label=Profile+Views)
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=alispatel111&color=7c3aed&style=flat-square&label=Profile+Views)&nbsp;
 ![GitHub followers](https://img.shields.io/github/followers/alispatel111?style=flat-square&color=7c3aed&label=Followers)
 
 </div>
@@ -58,8 +60,6 @@ that actually solve problems.
 ## 🛠️ Tech Stack
 
 <div align="center">
-
-<br/>
 
 ### ⚛️ Frontend
 
@@ -111,8 +111,6 @@ that actually solve problems.
 ![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=000)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 
-<br/>
-
 </div>
 
 ---
@@ -121,22 +119,83 @@ that actually solve problems.
 
 <div align="center">
 
-<a href="https://github.com/alispatel111/qr-payment-system">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=alispatel111&repo=qr-payment-system&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&border_radius=10" />
-</a>
-<a href="https://github.com/alispatel111/tripeasy">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=alispatel111&repo=tripeasy&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&border_radius=10" />
-</a>
-
-<a href="https://github.com/alispatel111/biology-trunk">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=alispatel111&repo=biology-trunk&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&border_radius=10" />
-</a>
-
-</div>
-
 <br/>
 
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3>💳 QR Payment System</h3>
+<p><em>Smart contactless payments via QR & NFC technology</em></p>
 
+[![Repo](https://img.shields.io/badge/View_Repo-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alispatel111/qr-payment-system)
+[![Live](https://img.shields.io/badge/Live_Demo-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](#)
+
+**Tech Stack:**<br/>
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=jsonwebtokens)
+
+**Key Features:**
+- ✅ QR & NFC based instant payments
+- ✅ Real-time billing dashboard
+- ✅ Invoice generation & management
+- ✅ Secure JWT authentication
+</td>
+<td width="50%" valign="top">
+<h3>🧳 TripEasy</h3>
+<p><em>Smart travel planning & booking with multi-destination support</em></p>
+
+[![Repo](https://img.shields.io/badge/View_Repo-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alispatel111/tripeasy)
+[![Live](https://img.shields.io/badge/Live_Demo-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](#)
+
+**Tech Stack:**<br/>
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Key Features:**
+- ✅ Multi-destination trip planning
+- ✅ Smart search & date filtering
+- ✅ Booking & availability system
+- ✅ Secure payment integration
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>🧬 Biology Trunk</h3>
+<p><em>Interactive biology learning platform for students</em></p>
+
+[![Repo](https://img.shields.io/badge/View_Repo-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alispatel111/biology-trunk)
+[![Live](https://img.shields.io/badge/Live_Demo-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](#)
+
+**Tech Stack:**<br/>
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+**Key Features:**
+- ✅ Topic-wise structured learning
+- ✅ Interactive biology modules
+- ✅ Clean & responsive UI
+- ✅ Student-friendly interface
+</td>
+<td width="50%" valign="top">
+<br/><br/><br/>
+<div align="center">
+
+**🔗 View All Projects**
+
+[![GitHub](https://img.shields.io/badge/All_Projects_on_GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alispatel111?tab=repositories)
+
+</div>
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
@@ -147,10 +206,10 @@ that actually solve problems.
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=alispatel111&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&border_radius=10" />
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=alispatel111&theme=tokyonight&hide_border=true&background=0D1117&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa&border_radius=10" />
 
-</div>
+<br/><br/>
 
-<div align="center">
 <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alispatel111&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&text_color=c9d1d9&border_radius=10&langs_count=8" />
+
 </div>
 
 ---
@@ -199,7 +258,7 @@ that actually solve problems.
 
 ---
 
-## 📬 Let's Connect & Build Together!
+## 📬 Let's Connect!
 
 <div align="center">
 
@@ -207,12 +266,9 @@ that actually solve problems.
 
 <br/>
 
-🤝 **Open to:** Full-time roles · Freelance projects · Open Source collaborations
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alis-patel)
-[![Mail](https://img.shields.io/badge/Drop_Me_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yourmail@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alis-patel)
+[![Mail](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yourmail@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Visit_Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.vercel.app)
 
 <br/>
 

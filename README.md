@@ -375,6 +375,10 @@ that actually solve problems.
 <a href="https://github.com/alispatel111" target="_blank">
   <img src="https://skillicons.dev/icons?i=github" width="60" height="60" alt="GitHub" />
 </a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://yourportfolio.vercel.app" target="_blank">
+  <img src="https://skillicons.dev/icons?i=vercel" width="60" height="60" alt="Portfolio" />
+</a>
 
 <br/><br/><br/>
 

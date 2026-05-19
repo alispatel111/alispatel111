@@ -138,8 +138,8 @@ that actually solve problems.
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub_Repo-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alispatel111)
-[![Live](https://img.shields.io/badge/Live_Demo-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](#)
+[![GitHub](https://img.shields.io/badge/GitHub_Repo-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhishek05012004/stp)
+[![Live](https://img.shields.io/badge/Live_Demo-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://scantappay.vercel.app)
 
 **Tech Stack**
 
@@ -176,8 +176,8 @@ that actually solve problems.
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub_Repo-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alispatel111)
-[![Live](https://img.shields.io/badge/Live_Demo-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](#)
+[![GitHub](https://img.shields.io/badge/GitHub_Repo-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alisproject111/tripeasy-client)
+[![Live](https://img.shields.io/badge/Live_Demo-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://tripeasy.in)
 
 **Tech Stack**
 
@@ -218,8 +218,8 @@ that actually solve problems.
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub_Repo-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alispatel111)
-[![Live](https://img.shields.io/badge/Live_Demo-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](#)
+[![GitHub](https://img.shields.io/badge/GitHub_Repo-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/W3BOPERATIONS/biology-trunk-client)
+[![Live](https://img.shields.io/badge/Live_Demo-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://biologytrunk.in)
 
 **Tech Stack**
 
@@ -257,8 +257,8 @@ that actually solve problems.
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub_Repo-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alispatel111)
-[![Live](https://img.shields.io/badge/Live_Demo-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](#)
+[![GitHub](https://img.shields.io/badge/GitHub_Repo-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alispatel111/flyanytrip-frontend)
+[![Live](https://img.shields.io/badge/Live_Demo-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://flyanytrip-frontend.vercel.app)
 
 **Tech Stack**
 

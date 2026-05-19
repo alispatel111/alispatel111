@@ -8,42 +8,11 @@
 </tr>
 <tr>
   <td align="center" style="padding: 25px; border: none; background: #0b0914;">
-    
-    <!-- Typing SVG -->
-    <a href="https://git.io/typing-svg" target="_blank">
-      <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=40&lines=🚀+Building+Scalable+MERN+Applications;💡+Turning+Complex+Ideas+into+Clean+Code;⚡+React+%7C+Node.js+%7C+MongoDB+%7C+Express;🌱+Always+Learning+%2C+Always+Growing" alt="Typing SVG" />
-    </a>
-    
+    <a href="https://git.io/typing-svg" target="_blank"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=40&lines=🚀+Building+Scalable+MERN+Applications;💡+Turning+Complex+Ideas+into+Clean+Code;⚡+React+%7C+Node.js+%7C+MongoDB+%7C+Express;🌱+Always+Learning+%2C+Always+Growing" alt="Typing SVG" /></a>
     <br/><br/>
-    
-    <!-- Social Icons Grid -->
-    <p align="center" style="margin: 0;">
-      <a href="https://www.linkedin.com/in/alispatel/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=linkedin" width="46" height="46" alt="LinkedIn" />
-      </a>
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      <a href="mailto:alispatel123098@gmail.com" target="_blank">
-        <img src="https://skillicons.dev/icons?i=gmail" width="46" height="46" alt="Gmail" />
-      </a>
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      <a href="https://github.com/alispatel111" target="_blank">
-        <img src="https://skillicons.dev/icons?i=github" width="46" height="46" alt="GitHub" />
-      </a>
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      <a href="https://alispatel.vercel.app" target="_blank">
-        <img src="./alis-logo.png" width="46" height="46" style="border-radius: 10px; object-fit: cover;" alt="Portfolio" />
-      </a>
-    </p>
-    
+    <a href="https://www.linkedin.com/in/alispatel/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="46" height="46" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:alispatel123098@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" width="46" height="46" alt="Gmail" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/alispatel111" target="_blank"><img src="https://skillicons.dev/icons?i=github" width="46" height="46" alt="GitHub" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://alispatel.vercel.app" target="_blank"><img src="./alis-logo.png" width="46" height="46" style="border-radius: 10px; object-fit: cover;" alt="Portfolio" /></a>
     <br/><br/>
-    
-    <!-- Badge Stats -->
-    <p align="center" style="margin: 0;">
-      <img src="https://komarev.com/ghpvc/?username=alispatel111&color=7c3aed&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
-      &nbsp;&nbsp;
-      <img src="https://img.shields.io/github/followers/alispatel111?style=for-the-badge&color=7c3aed&label=Followers" alt="Followers" />
-    </p>
-    
+    <img src="https://komarev.com/ghpvc/?username=alispatel111&color=7c3aed&style=for-the-badge&label=Profile+Views" alt="Profile Views" />&nbsp;&nbsp;<img src="https://img.shields.io/github/followers/alispatel111?style=for-the-badge&color=7c3aed&label=Followers" alt="Followers" />
   </td>
 </tr>
 </table>

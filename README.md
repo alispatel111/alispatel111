@@ -117,98 +117,129 @@ that actually solve problems.
 
 ## 🚀 Featured Projects
 
-<div align="center"><br/>
+<div align="center">
+
+<br/>
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top" align="left">
 
-[![p1](https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-7c3aed?style=for-the-badge)](https://github.com/alispatel111)
+![](https://img.shields.io/badge/◈_01-QR__Payment__System-7c3aed?style=for-the-badge&logoColor=white)
 
-**💳 01 &nbsp;·&nbsp; QR Payment System**
-*Smart QR & NFC contactless payment & billing system*
+### 💳 QR Payment System
+
+*Smart QR & NFC based contactless payment & billing system*
 
 [![GitHub](https://img.shields.io/badge/GitHub_Repo-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alispatel111)
 [![Live](https://img.shields.io/badge/Live_Demo-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](#)
 
-**🧩 Stack** &nbsp;
+**Tech Stack**
+
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-404D59?style=flat-square&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=jsonwebtokens)
 
-**✅ Features**
-`📱 QR & NFC Payments` &nbsp; `📊 Real-time Dashboard`
-`🧾 Invoice Generation` &nbsp; `🔐 JWT Auth`
+**Key Features**
+
+- 📱 QR & NFC based instant payments
+- 📊 Real-time billing dashboard
+- 🧾 Invoice generation & management
+- 🔐 Secure JWT authentication
+
+<br/>
 
 </td>
 <td width="50%" valign="top" align="left">
 
-[![p2](https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-10b981?style=for-the-badge)](https://github.com/alispatel111)
+![](https://img.shields.io/badge/◈_02-TripEasy-10b981?style=for-the-badge&logoColor=white)
 
-**🧳 02 &nbsp;·&nbsp; TripEasy**
-*Smart travel planning & booking with multi-destination support*
+### 🧳 TripEasy
+
+*Smart travel planning & booking web application with multi-destination support*
 
 [![GitHub](https://img.shields.io/badge/GitHub_Repo-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alispatel111)
 [![Live](https://img.shields.io/badge/Live_Demo-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](#)
 
-**🧩 Stack** &nbsp;
+**Tech Stack**
+
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-404D59?style=flat-square&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-**✅ Features**
-`🌍 Multi-destination` &nbsp; `🔍 Smart Search`
-`📅 Date Filters` &nbsp; `💳 Secure Payments`
+**Key Features**
+
+- 🌍 Multi-destination trip planning
+- 🔍 Smart search & date filtering
+- 📅 Booking & availability system
+- 💳 Secure payment integration
+
+<br/>
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top" align="left">
 
-[![p3](https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-3b82f6?style=for-the-badge)](https://github.com/alispatel111)
+![](https://img.shields.io/badge/◈_03-Biology__Trunk-3b82f6?style=for-the-badge&logoColor=white)
 
-**🧬 03 &nbsp;·&nbsp; Biology Trunk**
-*Interactive biology learning platform for students*
+### 🧬 Biology Trunk
+
+*Interactive biology learning platform for students with topic-wise modules*
 
 [![GitHub](https://img.shields.io/badge/GitHub_Repo-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alispatel111)
 [![Live](https://img.shields.io/badge/Live_Demo-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](#)
 
-**🧩 Stack** &nbsp;
+**Tech Stack**
+
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-404D59?style=flat-square&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
-**✅ Features**
-`📚 Topic Modules` &nbsp; `🎯 Interactive Learning`
-`🖥️ Responsive UI` &nbsp; `👨‍🎓 Student Friendly`
+**Key Features**
+
+- 📚 Topic-wise structured learning
+- 🎯 Interactive biology modules
+- 🖥️ Clean & responsive UI
+- 👨‍🎓 Student-friendly interface
+
+<br/>
 
 </td>
 <td width="50%" valign="top" align="left">
 
-[![p4](https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-f59e0b?style=for-the-badge)](https://github.com/alispatel111)
+![](https://img.shields.io/badge/◈_04-FlyAnyTrip-f59e0b?style=for-the-badge&logoColor=white)
 
-**✈️ 04 &nbsp;·&nbsp; FlyAnyTrip**
+### ✈️ FlyAnyTrip
+
 *Modern flight search & travel booking web application*
 
 [![GitHub](https://img.shields.io/badge/GitHub_Repo-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alispatel111)
 [![Live](https://img.shields.io/badge/Live_Demo-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](#)
 
-**🧩 Stack** &nbsp;
+**Tech Stack**
+
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-404D59?style=flat-square&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 ![JS](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-**✅ Features**
-`✈️ Flight Booking` &nbsp; `🌍 Multi-destination`
-`📅 Date Filters` &nbsp; `💳 Secure Payment`
+**Key Features**
+
+- ✈️ Flight search & booking system
+- 🌍 Multi-destination travel planning
+- 📅 Date-based availability filter
+- 💳 Secure payment integration
+
+<br/>
 
 </td>
 </tr>
@@ -216,8 +247,7 @@ that actually solve problems.
 
 <br/>
 
-[![All Projects](https://img.shields.io/badge/View_All_Projects_on_GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alispatel111?tab=repositories)
-
+[![All Projects](https://img.shields.io/badge/🔗_View_All_Projects_on_GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alispatel111?tab=repositories)
 
 
 </div>

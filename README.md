@@ -121,53 +121,12 @@ that actually solve problems.
 
 <div align="center">
 
----
-
-### 💳 QR Payment System
-> *Smart contactless payments powered by QR & NFC technology*
-
-[![Repo](https://img.shields.io/badge/View_Repo-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alispatel111)
-[![Live](https://img.shields.io/badge/Live_Demo-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](#)
-
-**Key Features:**
-- 🔐 Secure JWT-based authentication
-- 📱 QR & NFC-based instant transactions
-- 📊 Real-time billing dashboard
-- 🧾 Invoice generation & management
-
-`React` `Node.js` `Express` `MongoDB` `JWT` `QR Code`
-
----
-
-### 🧳 TripEasy
-> *A smart & easy travel planning and booking web application*
-
-[![Repo](https://img.shields.io/badge/View_Repo-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alispatel111)
-[![Live](https://img.shields.io/badge/Live_Demo-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](#)
-
-**Key Features:**
-- 🌍 Multi-destination trip planning
-- 🔍 Smart travel search & filtering
-- 📅 Date-based availability & booking
-- 💳 Secure payment integration
-
-`React` `Node.js` `Express` `MongoDB` `JavaScript` `CSS3`
-
----
-
-### 🧬 Biology Trunk
-> *An interactive biology learning platform for students*
-
-[![Repo](https://img.shields.io/badge/View_Repo-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alispatel111)
-[![Live](https://img.shields.io/badge/Live_Demo-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](#)
-
-**Key Features:**
-- 📚 Interactive biology content & modules
-- 🎯 Topic-wise structured learning
-- 🖥️ Clean & fully responsive UI
-- ✅ Student-friendly interface
-
-`React` `Node.js` `Express` `MongoDB` `Tailwind CSS`
+| <img width="400"/> | <img width="400"/> | <img width="400"/> |
+|:---:|:---:|:---:|
+| <h3>💳 QR Payment System</h3> | <h3>🧳 TripEasy</h3> | <h3>🧬 Biology Trunk</h3> |
+| Smart QR & NFC based payment and billing system with real-time tracking | Smart travel planning & booking web app with multi-destination support | Interactive biology learning platform for students with topic-wise modules |
+| [![Repo](https://img.shields.io/badge/Repo-0D1117?style=flat-square&logo=github&logoColor=white)](https://github.com/alispatel111) [![Live](https://img.shields.io/badge/Live-7C3AED?style=flat-square&logo=vercel&logoColor=white)](#) | [![Repo](https://img.shields.io/badge/Repo-0D1117?style=flat-square&logo=github&logoColor=white)](https://github.com/alispatel111) [![Live](https://img.shields.io/badge/Live-7C3AED?style=flat-square&logo=vercel&logoColor=white)](#) | [![Repo](https://img.shields.io/badge/Repo-0D1117?style=flat-square&logo=github&logoColor=white)](https://github.com/alispatel111) [![Live](https://img.shields.io/badge/Live-7C3AED?style=flat-square&logo=vercel&logoColor=white)](#) |
+| ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node](https://img.shields.io/badge/Node-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=jsonwebtokens) | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node](https://img.shields.io/badge/Node-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node](https://img.shields.io/badge/Node-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) |
 
 </div>
 

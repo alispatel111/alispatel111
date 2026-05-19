@@ -121,12 +121,67 @@ that actually solve problems.
 
 <div align="center">
 
-| <img width="400"/> | <img width="400"/> | <img width="400"/> |
-|:---:|:---:|:---:|
-| <h3>💳 QR Payment System</h3> | <h3>🧳 TripEasy</h3> | <h3>🧬 Biology Trunk</h3> |
-| Smart QR & NFC based payment and billing system with real-time tracking | Smart travel planning & booking web app with multi-destination support | Interactive biology learning platform for students with topic-wise modules |
-| [![Repo](https://img.shields.io/badge/Repo-0D1117?style=flat-square&logo=github&logoColor=white)](https://github.com/alispatel111) [![Live](https://img.shields.io/badge/Live-7C3AED?style=flat-square&logo=vercel&logoColor=white)](#) | [![Repo](https://img.shields.io/badge/Repo-0D1117?style=flat-square&logo=github&logoColor=white)](https://github.com/alispatel111) [![Live](https://img.shields.io/badge/Live-7C3AED?style=flat-square&logo=vercel&logoColor=white)](#) | [![Repo](https://img.shields.io/badge/Repo-0D1117?style=flat-square&logo=github&logoColor=white)](https://github.com/alispatel111) [![Live](https://img.shields.io/badge/Live-7C3AED?style=flat-square&logo=vercel&logoColor=white)](#) |
-| ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node](https://img.shields.io/badge/Node-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=jsonwebtokens) | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node](https://img.shields.io/badge/Node-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node](https://img.shields.io/badge/Node-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) |
+<br/>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 💳 01 — QR Payment System
+
+> Smart QR & NFC based payment and billing system with real-time tracking and secure authentication.
+
+🔐 JWT Auth &nbsp;|&nbsp; 📱 QR & NFC Payments &nbsp;|&nbsp; 📊 Real-time Dashboard &nbsp;|&nbsp; 🧾 Invoice Generation
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens)
+
+[![Repo](https://img.shields.io/badge/View_Repo-%230D1117.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alispatel111)
+[![Live](https://img.shields.io/badge/Live_Demo-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](#)
+
+</td>
+<td width="50%" valign="top">
+
+### 🧳 02 — TripEasy
+
+> Smart travel planning and booking web app with multi-destination search, date filters, and secure payment.
+
+🌍 Multi-destination &nbsp;|&nbsp; 🔍 Smart Search &nbsp;|&nbsp; 📅 Date Filters &nbsp;|&nbsp; 💳 Payments
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+[![Repo](https://img.shields.io/badge/View_Repo-%230D1117.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alispatel111)
+[![Live](https://img.shields.io/badge/Live_Demo-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](#)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🧬 03 — Biology Trunk
+
+> Interactive biology learning platform for students with topic-wise modules and a clean, responsive UI.
+
+📚 Topic Modules &nbsp;|&nbsp; 🎯 Structured Learning &nbsp;|&nbsp; 🖥️ Responsive UI &nbsp;|&nbsp; ✅ Student Friendly
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+[![Repo](https://img.shields.io/badge/View_Repo-%230D1117.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alispatel111)
+[![Live](https://img.shields.io/badge/Live_Demo-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](#)
+
+</td>
+<td width="50%" valign="top"></td>
+</tr>
+</table>
 
 </div>
 

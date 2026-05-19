@@ -295,16 +295,28 @@ that actually solve problems.
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=alispatel111&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&border_radius=10" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=alispatel111&theme=tokyonight&hide_border=true&background=0D1117&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa&border_radius=10" />
+<br/>
 
-<br/><br/>
-
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alispatel111&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&text_color=c9d1d9&border_radius=10&langs_count=8" />
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td width="50%" align="center" valign="middle" style="border: none; padding: 8px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=alispatel111&show_icons=true&bg_color=0D1117&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9&hide_border=true&count_private=true&border_radius=12" width="100%" alt="GitHub Stats" />
+</td>
+<td width="50%" align="center" valign="middle" style="border: none; padding: 8px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alispatel111&background=0D1117&title=a78bfa&currStreakLabel=a78bfa&sideNums=c9d1d9&sideLabels=c9d1d9&ring=7c3aed&fire=a78bfa&currStreakNum=c9d1d9&hide_border=true&border_radius=12" width="100%" alt="GitHub Streak" />
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center" valign="middle" style="border: none; padding: 12px 8px 8px 8px;">
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alispatel111&layout=donut&bg_color=0D1117&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9&hide_border=true&border_radius=12&langs_count=8" width="60%" alt="Top Languages" />
+</td>
+</tr>
+</table>
 
 </div>
 

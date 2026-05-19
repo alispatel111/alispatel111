@@ -119,35 +119,24 @@ that actually solve problems.
 
 ## 🚀 Featured Projects
 
-### 💳 QR Payment System &nbsp; [![Repo](https://img.shields.io/badge/Repo-0D1117?style=flat-square&logo=github&logoColor=white)](https://github.com/alispatel111) [![Live](https://img.shields.io/badge/Live-7C3AED?style=flat-square&logo=vercel&logoColor=white)](#)
+<div align="center">
 
-> 🔐 Smart QR & NFC based payment and billing system with real-time tracking and secure authentication.
+<a href="https://github.com/alispatel111/qr-payment-system">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=alispatel111&repo=qr-payment-system&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&border_radius=10" />
+</a>
+<a href="https://github.com/alispatel111/tripeasy">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=alispatel111&repo=tripeasy&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&border_radius=10" />
+</a>
 
-`React` &nbsp; `Node.js` &nbsp; `Express` &nbsp; `MongoDB` &nbsp; `JWT` &nbsp; `QR Code`
+<a href="https://github.com/alispatel111/biology-trunk">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=alispatel111&repo=biology-trunk&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&border_radius=10" />
+</a>
 
-&nbsp;&nbsp;&nbsp; 📱 QR & NFC Payments &nbsp;•&nbsp; 📊 Real-time Dashboard &nbsp;•&nbsp; 🧾 Invoice Generation &nbsp;•&nbsp; 🔐 JWT Auth
-
-<br/>
-
-### 🧳 TripEasy &nbsp; [![Repo](https://img.shields.io/badge/Repo-0D1117?style=flat-square&logo=github&logoColor=white)](https://github.com/alispatel111) [![Live](https://img.shields.io/badge/Live-7C3AED?style=flat-square&logo=vercel&logoColor=white)](#)
-
-> 🌍 Smart travel planning and booking web app with multi-destination search, date filters, and secure payment.
-
-`React` &nbsp; `Node.js` &nbsp; `Express` &nbsp; `MongoDB` &nbsp; `JavaScript` &nbsp; `CSS3`
-
-&nbsp;&nbsp;&nbsp; 🌍 Multi-destination &nbsp;•&nbsp; 🔍 Smart Search &nbsp;•&nbsp; 📅 Date Filters &nbsp;•&nbsp; 💳 Payments
+</div>
 
 <br/>
 
-### 🧬 Biology Trunk &nbsp; [![Repo](https://img.shields.io/badge/Repo-0D1117?style=flat-square&logo=github&logoColor=white)](https://github.com/alispatel111) [![Live](https://img.shields.io/badge/Live-7C3AED?style=flat-square&logo=vercel&logoColor=white)](#)
 
-> 📚 Interactive biology learning platform for students with topic-wise modules and a clean, responsive UI.
-
-`React` &nbsp; `Node.js` &nbsp; `Express` &nbsp; `MongoDB` &nbsp; `Tailwind CSS`
-
-&nbsp;&nbsp;&nbsp; 📚 Topic Modules &nbsp;•&nbsp; 🎯 Structured Learning &nbsp;•&nbsp; 🖥️ Responsive UI &nbsp;•&nbsp; ✅ Student Friendly
-
-<br/>
 
 ---
 

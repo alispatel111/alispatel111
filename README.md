@@ -119,71 +119,35 @@ that actually solve problems.
 
 ## 🚀 Featured Projects
 
-<div align="center">
+### 💳 QR Payment System &nbsp; [![Repo](https://img.shields.io/badge/Repo-0D1117?style=flat-square&logo=github&logoColor=white)](https://github.com/alispatel111) [![Live](https://img.shields.io/badge/Live-7C3AED?style=flat-square&logo=vercel&logoColor=white)](#)
+
+> 🔐 Smart QR & NFC based payment and billing system with real-time tracking and secure authentication.
+
+`React` &nbsp; `Node.js` &nbsp; `Express` &nbsp; `MongoDB` &nbsp; `JWT` &nbsp; `QR Code`
+
+&nbsp;&nbsp;&nbsp; 📱 QR & NFC Payments &nbsp;•&nbsp; 📊 Real-time Dashboard &nbsp;•&nbsp; 🧾 Invoice Generation &nbsp;•&nbsp; 🔐 JWT Auth
 
 <br/>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### 🧳 TripEasy &nbsp; [![Repo](https://img.shields.io/badge/Repo-0D1117?style=flat-square&logo=github&logoColor=white)](https://github.com/alispatel111) [![Live](https://img.shields.io/badge/Live-7C3AED?style=flat-square&logo=vercel&logoColor=white)](#)
 
-### 💳 01 — QR Payment System
+> 🌍 Smart travel planning and booking web app with multi-destination search, date filters, and secure payment.
 
-> Smart QR & NFC based payment and billing system with real-time tracking and secure authentication.
+`React` &nbsp; `Node.js` &nbsp; `Express` &nbsp; `MongoDB` &nbsp; `JavaScript` &nbsp; `CSS3`
 
-🔐 JWT Auth &nbsp;|&nbsp; 📱 QR & NFC Payments &nbsp;|&nbsp; 📊 Real-time Dashboard &nbsp;|&nbsp; 🧾 Invoice Generation
+&nbsp;&nbsp;&nbsp; 🌍 Multi-destination &nbsp;•&nbsp; 🔍 Smart Search &nbsp;•&nbsp; 📅 Date Filters &nbsp;•&nbsp; 💳 Payments
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens)
+<br/>
 
-[![Repo](https://img.shields.io/badge/View_Repo-%230D1117.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alispatel111)
-[![Live](https://img.shields.io/badge/Live_Demo-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](#)
+### 🧬 Biology Trunk &nbsp; [![Repo](https://img.shields.io/badge/Repo-0D1117?style=flat-square&logo=github&logoColor=white)](https://github.com/alispatel111) [![Live](https://img.shields.io/badge/Live-7C3AED?style=flat-square&logo=vercel&logoColor=white)](#)
 
-</td>
-<td width="50%" valign="top">
+> 📚 Interactive biology learning platform for students with topic-wise modules and a clean, responsive UI.
 
-### 🧳 02 — TripEasy
+`React` &nbsp; `Node.js` &nbsp; `Express` &nbsp; `MongoDB` &nbsp; `Tailwind CSS`
 
-> Smart travel planning and booking web app with multi-destination search, date filters, and secure payment.
+&nbsp;&nbsp;&nbsp; 📚 Topic Modules &nbsp;•&nbsp; 🎯 Structured Learning &nbsp;•&nbsp; 🖥️ Responsive UI &nbsp;•&nbsp; ✅ Student Friendly
 
-🌍 Multi-destination &nbsp;|&nbsp; 🔍 Smart Search &nbsp;|&nbsp; 📅 Date Filters &nbsp;|&nbsp; 💳 Payments
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-[![Repo](https://img.shields.io/badge/View_Repo-%230D1117.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alispatel111)
-[![Live](https://img.shields.io/badge/Live_Demo-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](#)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🧬 03 — Biology Trunk
-
-> Interactive biology learning platform for students with topic-wise modules and a clean, responsive UI.
-
-📚 Topic Modules &nbsp;|&nbsp; 🎯 Structured Learning &nbsp;|&nbsp; 🖥️ Responsive UI &nbsp;|&nbsp; ✅ Student Friendly
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-[![Repo](https://img.shields.io/badge/View_Repo-%230D1117.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alispatel111)
-[![Live](https://img.shields.io/badge/Live_Demo-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](#)
-
-</td>
-<td width="50%" valign="top"></td>
-</tr>
-</table>
-
-</div>
+<br/>
 
 ---
 

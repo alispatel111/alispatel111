@@ -139,32 +139,16 @@ that actually solve problems.
 
 ---
 
-### 🧬 Biology Turn
-> *An interactive biology learning platform for students*
+### 🧳 TripEasy
+> *A smart & easy travel planning and booking web application*
 
 [![Repo](https://img.shields.io/badge/View_Repo-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alispatel111)
 [![Live](https://img.shields.io/badge/Live_Demo-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](#)
 
 **Key Features:**
-- 📚 Interactive biology content & modules
-- 🎯 Topic-wise structured learning
-- 🖥️ Clean & responsive UI design
-- ✅ Student-friendly interface
-
-`React` `Node.js` `Express` `MongoDB` `Tailwind CSS`
-
----
-
-### ✈️ FlyAnyTrip
-> *A modern flight & travel booking web application*
-
-[![Repo](https://img.shields.io/badge/View_Repo-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alispatel111)
-[![Live](https://img.shields.io/badge/Live_Demo-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](#)
-
-**Key Features:**
-- ✈️ Flight search & booking system
-- 🌍 Multi-destination travel planning
-- 📅 Date-based availability filtering
+- 🌍 Multi-destination trip planning
+- 🔍 Smart travel search & filtering
+- 📅 Date-based availability & booking
 - 💳 Secure payment integration
 
 `React` `Node.js` `Express` `MongoDB` `JavaScript` `CSS3`

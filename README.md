@@ -209,11 +209,11 @@ that actually solve problems.
 
 ### 🧬 Biology Trunk
 
-*Interactive biology learning platform for students with topic-wise modules*
+*Online academic learning platform focused on biology education, featuring interactive lessons and progress tracking*
 
-![Category](https://img.shields.io/badge/Category-Fullstack-4f46e5?style=flat-square)
+![Category](https://img.shields.io/badge/Category-Mobile-4f46e5?style=flat-square)
 ![Status](https://img.shields.io/badge/Status-Production-16a34a?style=flat-square)
-![Stars](https://img.shields.io/badge/Stars-32-eab308?style=flat-square)
+![Stars](https://img.shields.io/badge/Stars-45-eab308?style=flat-square)
 ![Complexity](https://img.shields.io/badge/Complexity-Medium-df9010?style=flat-square)
 
 <br/>
@@ -227,14 +227,17 @@ that actually solve problems.
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-404D59?style=flat-square&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 **Key Features**
 
-- 📚 Topic-wise structured learning
-- 🎯 Interactive biology modules
-- 🖥️ Clean & responsive UI
-- 👨‍🎓 Student-friendly interface
+- 🎓 &nbsp;Ph.D. & NET/GATE Expert Faculty Portal
+- 🎥 &nbsp;Live Interactive Classes with WebRTC
+- 📊 &nbsp;AI-Powered Performance Analytics
+- 📚 &nbsp;Structured Curriculum for NEET, CUET, KVS
+- 📈 &nbsp;Student Progress & Performance Tracking
+- 💳 &nbsp;Secure Payment & Enrollment System
 
 <br/>
 

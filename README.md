@@ -304,7 +304,7 @@ that actually solve problems.
 <table width="100%" border="0" cellpadding="0" cellspacing="0">
 <tr>
 <td width="50%" align="center" valign="middle" style="border: none; padding: 8px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=alispatel111&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&border_radius=12" width="100%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=alispatel111&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&border_radius=12" width="100%" alt="GitHub Stats" />
 </td>
 <td width="50%" align="center" valign="middle" style="border: none; padding: 8px;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=alispatel111&theme=tokyonight&hide_border=true&border_radius=12" width="100%" alt="GitHub Streak" />
@@ -313,7 +313,7 @@ that actually solve problems.
 <tr>
 <td colspan="2" align="center" valign="middle" style="border: none; padding: 12px 8px 8px 8px;">
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alispatel111&layout=donut&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8" width="60%" alt="Top Languages" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=alispatel111&layout=donut&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8" width="60%" alt="Top Languages" />
 </td>
 </tr>
 </table>

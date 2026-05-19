@@ -49,95 +49,63 @@ const alisPatel: Developer = {
 
 ---
 
-## 🛠️ Full Tech Arsenal
+## 🛠️ Tech Stack
 
 <div align="center">
 
-> *"A craftsman is only as good as his tools — and I keep mine sharp."*
+<br/>
+
+### ⚛️ Frontend
+
+[![My Skills](https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,redux,vite&theme=dark)](https://skillicons.dev)
 
 <br/>
 
-<!-- ───── ROW 1 ───── -->
-<table>
-  <tr>
-    <td align="center" width="50%">
-
-### ⚛️ Frontend Development
-
-| Technology | Badge | Level |
-|:---|:---:|:---:|
-| **React.js** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) | ⭐⭐⭐⭐⭐ |
-| **JavaScript (ES6+)** | ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ⭐⭐⭐⭐⭐ |
-| **HTML5** | ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) | ⭐⭐⭐⭐⭐ |
-| **CSS3** | ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) | ⭐⭐⭐⭐⭐ |
-| **Tailwind CSS** | ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) | ⭐⭐⭐⭐⭐ |
-| **Redux** | ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white) | ⭐⭐⭐⭐ |
-| **Vite** | ![Vite](https://img.shields.io/badge/Vite-B73BFE?style=flat-square&logo=vite&logoColor=FFD62E) | ⭐⭐⭐⭐ |
-| **TypeScript** | ![TS](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) | ⭐⭐⭐ |
-
-</td>
-    <td align="center" width="50%">
-
-### ⚙️ Backend Development
-
-| Technology | Badge | Level |
-|:---|:---:|:---:|
-| **Node.js** | ![Node](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) | ⭐⭐⭐⭐⭐ |
-| **Express.js** | ![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) | ⭐⭐⭐⭐⭐ |
-| **REST APIs** | ![REST](https://img.shields.io/badge/REST_API-FF6B35?style=flat-square&logo=postman&logoColor=white) | ⭐⭐⭐⭐⭐ |
-| **JWT Auth** | ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white) | ⭐⭐⭐⭐⭐ |
-| **MongoDB** | ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) | ⭐⭐⭐⭐⭐ |
-| **Mongoose** | ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white) | ⭐⭐⭐⭐⭐ |
-
-</td>
-  </tr>
-</table>
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
 <br/>
 
-<!-- ───── ROW 2 ───── -->
-<table>
-  <tr>
-    <td align="center" width="50%">
+---
 
-### 🧰 Dev Tools & Workflow
+### ⚙️ Backend & Database
 
-| Tool | Badge | Purpose |
-|:---|:---:|:---:|
-| **Git** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) | Version Control |
-| **GitHub** | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) | Code Hosting |
-| **VS Code** | ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) | IDE |
-| **Postman** | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) | API Testing |
-| **NPM** | ![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=white) | Package Manager |
-
-</td>
-    <td align="center" width="50%">
-
-### ☁️ Deployment & Platforms
-
-| Platform | Badge | Use Case |
-|:---|:---:|:---:|
-| **Vercel** | ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) | Frontend Deploy |
-| **Render** | ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=000) | Backend Hosting |
-| **GitHub Actions** | ![Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) | CI/CD Pipeline |
-| **MongoDB Atlas** | ![Atlas](https://img.shields.io/badge/MongoDB_Atlas-47A248?style=flat-square&logo=mongodb&logoColor=white) | Cloud Database |
-
-</td>
-  </tr>
-</table>
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark)](https://skillicons.dev)
 
 <br/>
 
-### 📊 Skill Proficiency Overview
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![REST API](https://img.shields.io/badge/REST_API-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 
-```
-Frontend (React / JS / CSS)   ████████████████████  98%
-Backend  (Node / Express)     ███████████████████░  95%
-Database (MongoDB)            ███████████████████░  90%
-REST API Design               ████████████████████  95%
-Git & Version Control         ██████████████████░░  88%
-TypeScript                    ████████████░░░░░░░░  60%
-```
+<br/>
+
+---
+
+### 🧰 Tools, DevOps & Platforms
+
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,figma&theme=dark)](https://skillicons.dev)
+
+<br/>
+
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=000)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+
+<br/>
 
 </div>
 
